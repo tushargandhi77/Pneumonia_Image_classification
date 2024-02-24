@@ -1,0 +1,14 @@
+
+
+# Virtual Environment
+.venv/
+test/
+train/
+val/
+env/
+*.env
+
+
+
+
+
