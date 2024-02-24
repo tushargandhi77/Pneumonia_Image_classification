@@ -1,7 +1,7 @@
 
 
 # Virtual Environment
-.venv/
+venv/
 test/
 train/
 val/
