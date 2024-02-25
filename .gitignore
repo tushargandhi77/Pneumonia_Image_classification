@@ -2,8 +2,8 @@
 
 # Virtual Environment
 venv/
-test/
-train/
+# test/
+# train/
 val/
 env/
 *.env
