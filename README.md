@@ -89,16 +89,22 @@ pneumonia-classification/
 ## Screenshots
 *You can add screenshots here to showcase the application interface. Below are placeholder sections for screenshots you can include:*
 
-- **Home Page**: [Add screenshot of the main interface where users upload images]
-- **Prediction Result**: [Add screenshot showing a sample prediction output]
-- **Mobile View**: [Add screenshot of the responsive design on a mobile device]
+<img width="1907" height="935" alt="Image" src="https://github.com/user-attachments/assets/54e8d715-e13b-446f-8228-a3d99e59659c" />
 
-To add screenshots:
-1. Save your screenshots in a folder (e.g., `screenshots/`).
-2. Update this README with Markdown image links, e.g.:
-   ```markdown
-   ![Home Page](screenshots/home-page.png)
-   ```
+<img width="1871" height="895" alt="Image" src="https://github.com/user-attachments/assets/fb4269a5-8e78-48be-8580-6fad869c5974" />
+
+<img width="1875" height="706" alt="Image" src="https://github.com/user-attachments/assets/de005014-0281-4d3c-9e41-259bff99469d" />
+
+<img width="1899" height="901" alt="Image" src="https://github.com/user-attachments/assets/65c05679-4d55-42ef-bba3-28cf314c78dd" />
+
+<img width="1907" height="874" alt="Image" src="https://github.com/user-attachments/assets/e1a03b99-2aab-426b-97d2-0ae8b538a535" />
+
+<img width="1895" height="889" alt="Image" src="https://github.com/user-attachments/assets/a0c5984b-d13d-4ced-bf69-e15935ac639d" />
+
+<img width="1906" height="905" alt="Image" src="https://github.com/user-attachments/assets/e02921b5-5ed6-4eb6-94ec-453461038094" />
+
+
+<img width="1904" height="900" alt="Image" src="https://github.com/user-attachments/assets/58238ef5-1dbe-4131-9a35-2495ae84e9f4" />
 
 ## Troubleshooting
 - **Flask Server Not Responding**:
