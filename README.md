@@ -1,5 +1,12 @@
 # Pneumonia Image Classification Application
 
+![Data Science](https://img.shields.io/badge/Data%20Science-Project-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Models-orange)
+![Machine Learning](https://img.shields.io/badge/Deep%20Learning-Models-red)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+
 ## Overview
 This project is a web-based application for classifying chest X-ray images to detect pneumonia. The frontend is built using **Next.js**, providing a responsive and user-friendly interface, while the backend is powered by a **Python Flask** server that utilizes a **TensorFlow** model for image classification. The application allows users to upload chest X-ray images and receive predictions indicating whether the image shows signs of pneumonia.
 
